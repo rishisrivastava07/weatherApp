@@ -41,7 +41,7 @@ The Weather App integrates with the OpenWeatherMap API to fetch weather data. It
 The Weather App is designed to be responsive and adaptable to different screen sizes. Media queries in CSS ensure that the layout and styling adjust dynamically based on the device's screen width.
 
 **9. Deploy Link:**
-The Weather App is deployed and accessible via the following link: [Weather App Deployed Version](#)
+The Weather App is deployed and accessible via the following link: [Weather App Deployed Version](https://rishisrivastava07.github.io/weatherApp/)
 
 **10. Future Enhancements:**
 Potential enhancements for the Weather App include:
